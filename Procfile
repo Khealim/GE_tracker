@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser GE_tracker.ipynb
+web: voila --port=$PORT --enable_nbextensions=True --no-browser GE_tracker.ipynb
