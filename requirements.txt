@@ -1,0 +1,5 @@
+pandas==1.2.4
+ipywidgets==7.6.3
+requests==2.25.1
+matplotlib==3.3.4
+ipython==7.23.1
